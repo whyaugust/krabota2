@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Товар 1",
+    "vendor_code": "111",
+    "description": "Косточка оранжевая",
+    "price": 100,
+    "img": "https://lenta.servicecdn.ru/globalassets/1/-/29/83/38/186795.png?preset=fulllossywhite"
+  },
+  {
+    "id": "2",
+    "title": "Товар 2",
+    "vendor_code": "222",
+    "description": "Мячик тенисный",
+    "price": 200,
+    "img": "https://4lapy.ru/resize/800x800/upload/iblock/c8b/c8b77641df0870fba6e9e98954f29c26.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Товар 3",
+    "vendor_code": "333",
+    "description": "Игрушка Бобёр",
+    "price": 300,
+    "img": "https://minizoomarket.ru/upload/iblock/008/008c7f0aba7377d59f06141112748447.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Товар 4",
+    "vendor_code": "444e",
+    "description": "Игрушка с лакомствами",
+    "price": 400,
+    "img": "https://markvet.ru/upload/iblock/777/i1783xtnga68vqbx473xjwbcnyghjpje.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Товар 5",
+    "vendor_code": "4445e",
+    "description": "Канат цветной",
+    "price": 400,
+    "img": "https://lenta.servicecdn.ru/globalassets/1/-/29/83/39/393569_3.png?preset=fulllossywhite"
+  },
+  {
+    "id": "6",
+    "title": "Товар 6",
+    "vendor_code": "4446e",
+    "description": "Поводок зеленый",
+    "price": 400,
+    "img": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-10/985/288/128/231/611/600008711869b0.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Товар 7",
+    "vendor_code": "4447e",
+    "description": "Костюмчик",
+    "price": 700,
+    "img": "https://cs2.livemaster.ru/storage/86/77/b685ec7bab5dae0c22a4ae0794lg--zootovary-kombinezon-dozhdevik-dlya-sobak-odezhda-dlya-sredni.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Товар 8",
+    "vendor_code": "4448e",
+    "description": "Лежанка большая",
+    "price": 800,
+    "img": "https://zoogav24.ru/upload/iblock/593/5933f9fff51664847f1fddf0155ec291.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Товар 9",
+    "vendor_code": "444e",
+    "description": "Миски на подставке",
+    "price": 400,
+    "img": "https://ir.ozone.ru/s3/multimedia-p/c1000/6053904157.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Товар 10",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 900,
+    "img": ""
+  },
+  {
+    "id": "11",
+    "title": "Товар 11",
+    "vendor_code": "44411e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": ""
+  }
+]
